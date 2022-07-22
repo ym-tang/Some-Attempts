@@ -5,10 +5,8 @@ information on those coefficients. For example, if that elliptic curve has a rat
 
 
 - Another one is whether we can generalize Mazur’s theorem a little bit to results like “there is no elliptic curve with p-torsion over the p-th cyclotomic field for every p larger than some integer”. In some sense, it was supported by Ribet’s result that torsion points of an elliptic curve over the maximal abelian extension of Q are finite. But laterly I found it is covered by Merel’s generalization of Mazur’s work, which is very elegant and original.
-
-
-
-
+  
+  
 
 ### [Home](https://ym-tang.github.io/Home/)
 ### [Education Background](https://ym-tang.github.io/Educational-Background/)
